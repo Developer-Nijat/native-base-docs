@@ -27,8 +27,8 @@ npm start</pre>
 Now, let’s create a .babelrc file to configure our babel plugins: <br />
 ```
 {
-  'presets': ['react-native'],
-  'plugins': ['transform-decorators-legacy']
+  "presets": ["react-native"],
+  "plugins": ["transform-decorators-legacy"]
 }
 ```
 
